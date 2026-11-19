@@ -14,11 +14,12 @@ The entries describe work scenarios and candidate outputs. They do not establish
 
 Public references:
 
-- [Application descriptions](https://pin2pin.cc/scenes/): inputs, outputs and review responsibilities for selected workflows.
-- [Practical guides](https://pin2pin.cc/guides/): drawing OCR and editable CAD, BOM review, and equipment tuning data.
-- [Requirements catalog](https://pin2pin.cc/estimate/): the source of the department groups and scenario entries.
+- [English workflow descriptions](https://pin2pin.ai/scenes/): inputs, candidate outputs and review responsibilities for selected engineering and purchasing tasks.
+- [English guides and downloadable worksheets](https://pin2pin.ai/guides/): inspection preparation, BOM review, supplier delivery records and equipment data.
+- [Build a workflow brief](https://pin2pin.ai/estimate/): describe departments, recurring tasks, available information and the result your team needs.
+- [Original Chinese requirements catalog](https://pin2pin.cc/estimate/): the source of the department groups and scenario entries.
 
-The source pages and catalog are currently in Chinese. The department labels and examples below are English summaries. Catalog reference date: 31 October 2026.
+The catalog CSV in this repository remains in Chinese. English explanations and worksheets are available through the links above; they do not establish that every scenario is a delivered product or a validated result. Catalog reference date: 31 October 2026.
 
 ## Department coverage
 
